@@ -1,0 +1,7 @@
+https://github.com/Sohcra/Mockend/edit/main/test.mockend.json
+
+{
+  "User": {
+    "title": { "string": {} }
+  }
+}
